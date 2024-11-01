@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@econogest/dashboard": [
+        "libs/dashboard/src/index.ts"
+      ],
       "@econogest/transactions": ["libs/transactions/src/index.ts"],
       "@econogest/ui": ["libs/shared/ui/src/index.ts"]
     }
