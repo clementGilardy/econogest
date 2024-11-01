@@ -1,0 +1,10 @@
+{
+  "name": "econogest-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/econogest-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["econogest"],
+  "// targets": "to see all targets run: nx show project econogest-e2e --web",
+  "targets": {}
+}
